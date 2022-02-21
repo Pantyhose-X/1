@@ -17,3 +17,6 @@
 #
 - 64线程下载器[Motrix](https://github.com/agalwood/Motrix)
 - 种子下载器[qBittorrent增强版](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
+#
+- 搜索引擎[brave](https://search.brave.com)
+- 搜索引擎[duckduckgo](https://duckduckgo.com)
