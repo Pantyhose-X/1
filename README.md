@@ -14,3 +14,6 @@
 - 练枪法[Aim_FTW](https://store.steampowered.com/app/1111300)
 - 练枪法[Aim_Lab](https://store.steampowered.com/app/714010)
 - [fps](https://store.steampowered.com/search/?term=fps&maxprice=free&category1=998)
+#
+- 64线程下载器[Motrix](https://github.com/agalwood/Motrix)
+- 种子下载器[qBittorrent增强版](https://github.com/c0re100/qBittorrent-Enhanced-Edition)
