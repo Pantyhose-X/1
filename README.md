@@ -1,0 +1,4 @@
+- 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
+- 安装[Session](https://getsession.org/download)
+- 加我Session ID `05a8f6639e13a3a81077054bec0ad58144cb7182376bb21e7c3f624e3a5bbcd468`拉你入Black Squad 群
+- 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA 
