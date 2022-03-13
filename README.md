@@ -2,6 +2,7 @@
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - 安装[Session](https://getsession.org/download)
 - 加我Session ID `05a8f6639e13a3a81077054bec0ad58144cb7182376bb21e7c3f624e3a5bbcd468`拉你入Black Squad 群
+- QQ群 552412533
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
