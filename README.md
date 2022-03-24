@@ -36,5 +36,5 @@
 - 搜索引擎[brave](https://search.brave.com)
 - 搜索引擎[duckduckgo](https://duckduckgo.com)
 #
-- 短链接bit[bit](https://bitly.com)
+- 短链接 [bit](https://bitly.com)
 - 短链接[16个](https://www.affde.com/zh-CN/best-url-shortener-websites-to-earn-money.html)
