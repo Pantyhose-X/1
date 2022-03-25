@@ -2,6 +2,7 @@
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - 安装[Session](https://getsession.org/download)
 - 加Session 群 `http://45.77.102.159/origin?public_key=132d7cf93a6a72eabbf9357a3a29d0644b27b1166e12d36704a0785f7ccb0f74` 
+- 其他Session群 [列表](https://session.directory/)
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
 - QQ群 552412533
 - # 
