@@ -4,7 +4,7 @@
 - 加Session 群 `http://45.77.102.159/origin?public_key=132d7cf93a6a72eabbf9357a3a29d0644b27b1166e12d36704a0785f7ccb0f74` 
 - 其他Session群 [列表](https://session.directory/)
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
-- QQ群 552412533
+- Black_Squad 游戏QQ群 552412533
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
