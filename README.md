@@ -15,7 +15,7 @@
 - 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA
 - 摄像头直播 [earthcam](https://www.earthcam.com)
 - 直播 [dlive](https://dlive.tv)
-- twitch [twitch](https://www.twitch.tv)
+- [twitch](https://www.twitch.tv)
 # 其他FPS
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
 - [Black_Squad 台湾版可以输入中文](https://vfun.valofe.com/home)
