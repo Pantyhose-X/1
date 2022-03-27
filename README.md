@@ -11,7 +11,7 @@
 - obs插件 只录游戏声音[win-capture-audio](https://github.com/bozbez/win-capture-audio) 玩游戏还可以听歌
 - obs插件 同时在多个平台直播 [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)
 - .
-- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 
+- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 腾讯直播国际版[直播推流码](https://studio.trovo.live/stream)
 - 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA
 - 摄像头直播 [earthcam](https://www.earthcam.com)
 - 直播 [dlive](https://dlive.tv)
