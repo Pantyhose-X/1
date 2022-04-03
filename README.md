@@ -1,10 +1,11 @@
+- <!-- pussy -->
 - 翻译英文网站浏览器[vivaldi](https://vivaldi.com)
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - 安装[Session](https://getsession.org/download)
-- 加Session 游戏群 `http://45.77.102.159/origin?public_key=132d7cf93a6a72eabbf9357a3a29d0644b27b1166e12d36704a0785f7ccb0f74` 
+- 加Session Black_Squad游戏群 `http://120.27.184.197:9999/privacy?public_key=cd5465714c1e0e6dd3439d4bff8e8ebfc5d67341cfda412ebb2f9d5ee41f992e` 
 - 其他Session群 [列表](https://session.directory/)
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
-- Black_Squad 游戏QQ群 552412533
+- <!-- Black_Squad 游戏QQ群 552412533 -->
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
