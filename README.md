@@ -5,7 +5,7 @@
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
 - 翻译英文网站浏览器[vivaldi](https://vivaldi.com)
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
-- <!-- Black_Squad 游戏QQ群 552412533 -->
+- Black_Squad 游戏QQ群 552412533
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
