@@ -12,11 +12,11 @@
 - obs插件 只录游戏声音[win-capture-audio](https://github.com/bozbez/win-capture-audio) 玩游戏还可以听歌
 - obs插件 同时在多个平台直播 [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)
 - .
-- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 腾讯直播国际版[直播推流码](https://studio.trovo.live/stream)
+- <!-- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 腾讯直播国际版[直播推流码](https://studio.trovo.live/stream) -->
 - 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA
 - 摄像头直播 [earthcam](https://www.earthcam.com)
-- 直播 [dlive](https://dlive.tv)
-- [twitch](https://www.twitch.tv)
+- <!-- 直播 [dlive](https://dlive.tv)-->
+- <!--[twitch](https://www.twitch.tv)-->
 # 其他FPS
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
 - [Black_Squad 台湾版可以输入中文](https://vfun.valofe.com/home)
@@ -40,3 +40,20 @@
 #
 - 短链接 [bit](https://bitly.com)
 - 短链接[16个](https://www.affde.com/zh-CN/best-url-shortener-websites-to-earn-money.html)
+
+----- ---
+GNU Linux-libre
+Parabola 
+Hyperbola
+Parrot os
+BlackArch
+ArchStrike
+Debian
+
+BSD
+OpenBSD
+GhosBSD
+HardenedBSD
+DragonFly BSD
+FreeBSD
+NetBSD
