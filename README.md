@@ -6,6 +6,7 @@
 - 翻译英文网站浏览器[Yandex](https://browser.yandex.com/)
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - Black_Squad 游戏QQ群 552412533
+-   YY 83772225
 - YY 344978
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
