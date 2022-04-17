@@ -3,7 +3,7 @@
 - <!-- 加Session Black_Squad游戏群 ` ` -->
 - 其他Session群 [列表](https://session.directory/)
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
-- 翻译英文网站浏览器[vivaldi](https://vivaldi.com)
+- 翻译英文网站浏览器[Yandex](https://browser.yandex.com/)
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - Black_Squad 游戏QQ群 552412533
 - YY 344978
