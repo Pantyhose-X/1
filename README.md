@@ -43,7 +43,8 @@
 - 短链接 [bit](https://bitly.com)
 - 短链接[16个](https://www.affde.com/zh-CN/best-url-shortener-websites-to-earn-money.html)
 
------ ---
+linux
+```
 GNU Linux-libre
 Parabola 
 Hyperbola
@@ -59,3 +60,4 @@ HardenedBSD
 DragonFly BSD
 FreeBSD
 NetBSD
+```
