@@ -3,17 +3,25 @@
 - <!-- 加Session Black_Squad游戏群 ` ` -->
 - 其他Session群 [列表](https://session.directory/)
 - 其他Session群 [列表](http://lokilocker.com/Mods/Session-Groups/wiki/Session-Open-Groups)
-- 翻译英文网站浏览器[Yandex](https://browser.yandex.com/)
+-- --
 - 减少ping使用[simple dnscrypt](https://simplednscrypt.org)
 - Black_Squad 游戏QQ群 552412533
--   YY 83772225
+- YY 83772225
 - YY 344978
+---- --
+- 翻译英文网站浏览器[Yandex](https://browser.yandex.com/)
+- 浏览器[chromium](https://github.com/Hibbiki/chromium-win64/releases)
+- 浏览器[brave](https://github.com/brave/brave-browser/releases)
+- 安卓扩展chromium浏览器[kiwibrowser](https://github.com/kiwibrowser/src.next/releases)
+- 安卓隐私chromium浏览器[bromite](https://github.com/bromite/bromite/releases)
+- 安卓浏览器[duckduckgo](https://github.com/duckduckgo/Android/releases)
+- 安卓浏览器[iceraven-browser](https://github.com/fork-maintainers/iceraven-browser/releases)
 - # 
 - 基于OBS 录屏[streamlabs](https://streamlabs.com/)
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
 - obs插件 只录游戏声音[win-capture-audio](https://github.com/bozbez/win-capture-audio) 玩游戏还可以听歌
 - obs插件 同时在多个平台直播 [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)
-- .
+- 
 - <!-- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 腾讯直播国际版[直播推流码](https://studio.trovo.live/stream) -->
 - 安装直播 [Dlive Protocol](https://dlive.org/) 教程[复制 直播密钥 和 服务器 到OBS](https://docs.dlive.org/docs/getting-started#setup-obs) 磁链 是观看直播的地址
 - 
