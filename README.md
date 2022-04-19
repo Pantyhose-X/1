@@ -31,7 +31,7 @@
 - <!--[twitch](https://www.twitch.tv)-->
 # 其他FPS
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
-- [Black_Squad 台湾版可以输入中文](https://vfun.valofe.com/home)
+- [Black_Squad 台湾版可以打中文](https://vfun.valofe.com/home)
 - [Black_Squad](https://store.steampowered.com/app/550650)
 - [HEAT REBORN](https://store.steampowered.com/app/1219590)
 - [TO4_Tactical_Operations](https://store.steampowered.com/app/690980)
