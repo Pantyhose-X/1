@@ -61,6 +61,7 @@ Hyperbola
 Parrot os
 BlackArch
 ArchStrike
+openSUSE
 Debian
 
 BSD
