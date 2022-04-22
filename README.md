@@ -63,6 +63,7 @@ BlackArch
 ArchStrike
 openSUSE
 Debian
+heads
 
 BSD
 OpenBSD
