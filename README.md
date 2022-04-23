@@ -33,6 +33,7 @@
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
 - [Black_Squad 台湾版可以打中文](https://vfun.valofe.com/home)
 - [Black_Squad](https://store.steampowered.com/app/550650)
+- [Battle Shooter](https://store.steampowered.com/app/1861860/Battle_Shooter/)
 - [HEAT REBORN](https://store.steampowered.com/app/1219590)
 - [TO4_Tactical_Operations](https://store.steampowered.com/app/690980)
 - [Nine_to_Five](https://store.steampowered.com/app/1408680)
