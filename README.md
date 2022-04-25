@@ -31,6 +31,11 @@
 - <!--[twitch](https://www.twitch.tv)-->
 # 其他FPS
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
+- [FPS游戏 Drakelings 社区](https://drakelings.bluedrake42.com/index.php)
+- [Roblox](https://www.roblox.com/discover#/)
+- [itch](https://itch.io/games)
+- [Linux游戏](https://lutris.net/games)
+---- ---
 - [Black_Squad 台湾版可以打中文](https://vfun.valofe.com/home)
 - [Black_Squad](https://store.steampowered.com/app/550650)
 <!-- [Battle Shooter](https://store.steampowered.com/app/1861860/Battle_Shooter/) -->
