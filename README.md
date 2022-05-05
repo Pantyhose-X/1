@@ -1,4 +1,4 @@
-- <!-- https://guo365.github.io/study/markdown.html#1 https://markdown.com.cn/basic-syntax/ --> 
+- <!-- https://xianbai.me/learn-md/index.html --> 
 - ~~hello~~
 - *斜体*
 - **粗体**
