@@ -30,13 +30,20 @@
 - OBS 录屏[OBS](https://obsproject.com/) OBS 设置 输出CPU使用预设(高=较少CPU占用) ultrafast
 - obs插件 只录游戏声音[win-capture-audio](https://github.com/bozbez/win-capture-audio) 玩游戏还可以听歌
 - obs插件 同时在多个平台直播 [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)
-- 
+
+摄像头直播 [earthcam](https://www.earthcam.com) \
+直播 [dlive](https://dlive.io) \
+[TwitCasting](https://twitcasting.tv/) \
+[showroom](https://www.showroom-live.com/) \
+[GoodGame](https://goodgame.ru/) \
+[WASD.TV](https://wasd.tv/) 
+
 - <!-- 腾讯直播国际版 [https://trovo.live](https://studio.trovo.live/stream) 腾讯直播国际版[直播推流码](https://studio.trovo.live/stream) -->
 - 安装直播 [Dlive Protocol](https://dlive.org/) 教程[复制 直播密钥 和 服务器 到OBS](https://docs.dlive.org/docs/getting-started#setup-obs) 磁链 是观看直播的地址
 - 
-- 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA
-- 摄像头直播 [earthcam](https://www.earthcam.com)
-- <!-- 直播 [dlive](https://dlive.tv)-->
+- 游戏直播 https://www.theta.tv 关闭应用程序里的 Cache compute 里的  Edge compute BETA \
+
+
 - <!--[twitch](https://www.twitch.tv)-->
 # 其他FPS
 - [League_of_Maidens](https://store.steampowered.com/app/557180)
