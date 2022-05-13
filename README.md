@@ -31,6 +31,7 @@
 - obs插件 只录游戏声音[win-capture-audio](https://github.com/bozbez/win-capture-audio) 玩游戏还可以听歌
 - obs插件 同时在多个平台直播 [obs-multi-rtmp](https://github.com/sorayuki/obs-multi-rtmp)
 
+[Glimesh](https://glimesh.tv/) \
 摄像头直播 [earthcam](https://www.earthcam.com) \
 直播 [dlive](https://dlive.io) \
 [TwitCasting](https://twitcasting.tv/) \
