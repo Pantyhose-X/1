@@ -8,10 +8,13 @@
 </details>
 # Contents
 #
-<div class="note primary" style="text-align: right"><a href="#Contents">回到顶部</a></div>
+<div class="note primary"style="text-align: right"><a href="#Contents">回到顶部</a></div>
 #
 
-
+<font color="ff0000">这是红色字</font> \
+<font size=2>这是2号字</font> \
+<font face="华文彩云">这是华文彩云字</font> \
+<font face="华文彩云" size=2 color="ff0000">这是2号红色华文彩云字</font>
 
 - 安装[Session](https://getsession.org/download)
 加我Session ID `0562397a5b9c9389e4f9e107827d58db0bae44608ee80a6765c0ac9c7fb322a908`
