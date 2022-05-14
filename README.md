@@ -8,7 +8,7 @@
 </details>
 # Contents
 #
-<div style="text-align: right"><a href="#Contents" style="class:note primary";" >回到顶部</a></div>
+<div style="text-align: right"><a href="#Contents">回到顶部</a></div>
 #
 
 
