@@ -35,6 +35,7 @@
 摄像头直播 [earthcam](https://www.earthcam.com) \
 直播 [dlive](https://dlive.io) \
 [TwitCasting](https://twitcasting.tv/) \
+[omlet](https://omlet.gg/) \
 [showroom](https://www.showroom-live.com/) \
 [GoodGame](https://goodgame.ru/) \
 [WASD.TV](https://wasd.tv/) 
