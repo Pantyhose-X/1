@@ -8,10 +8,10 @@
 </details>
 # Contents
 #
-<div style="text-align: right"><a href="#Contents" style="color:#1c6189;" >回到顶部</a></div>
+<div style="text-align: right"><a href="#Contents" style="class:note primary";" >回到顶部</a></div>
 #
 
-class="note primary"
+
 
 - 安装[Session](https://getsession.org/download)
 加我Session ID `0562397a5b9c9389e4f9e107827d58db0bae44608ee80a6765c0ac9c7fb322a908`
